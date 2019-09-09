@@ -6,10 +6,11 @@ beacon
 orange juice/water
 
 lunch
-brocolli
 lettuce
 red onion
 sweet tomatoes
+ham
+12 grains bread
 water
 
 
